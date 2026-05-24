@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Custom Pack for 26.1",
+        "min_format": [75, 0],
+		"max_format": [100, 0]
+    }
+}
